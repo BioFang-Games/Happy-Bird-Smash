@@ -1,6 +1,6 @@
 # Happy Bird Smash
 
-Happy Bird Smash game for Windows, Linux, MacOS, and Android OS. (Source Code)
+Happy Bird Smash game for Windows, MacOS, and Android OS. (Source Code)
 
 Happy Bird Smash is a simple Indie Game by BioFang Games. It is not intended to be distributed publicly, but in a private setting. Distribution may only occur if done by BioFang Games or a platform's respective app store, not an outside source. This is a work-in-progress and some files will be linked across the web for help with code errors and such. Any outside source will not have, nor will ever have, permission to use these files for their own purposes.
 
